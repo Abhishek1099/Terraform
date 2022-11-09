@@ -1,10 +1,10 @@
-variable "aws_access_key" {
+variable "AWS_ACCESS_KEY_ID" {
   type        = string
   description = "AWS Access Key"
  
 }
 
-variable "aws_secret_key" {
+variable "AWS_SECRET_ACCESS_KEY" {
   type        = string
   description = "AWS Secret Key"
   
